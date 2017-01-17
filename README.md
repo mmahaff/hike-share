@@ -1,26 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Description:
 
-Things you may want to cover:
+Hike-share allows outdoor enthusiasts to lend and borrow equipment from fellow enthusiasts for their next outdoor adventure!
 
-* Ruby version
 
-* System dependencies
+# Technologies Used:
 
-* Configuration
+* Ruby v. 2.3.1
 
-* Database creation
+* Rails 5
 
-* Database initialization
+* React.js
 
-* How to run the test suite
+* React-Bootstrap
 
-* Services (job queues, cache servers, search engines, etc.)
+* Facebook Omniauth
 
-* Deployment instructions
-
-* ...
-# Hike Share
-Your app description, here.
+* Google Maps API
