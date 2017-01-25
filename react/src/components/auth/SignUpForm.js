@@ -1,12 +1,12 @@
-var React = require('react');
-var _ = require('lodash');
-var Functions = require('../../utils/Functions.js');
+let React = require('react');
+let _ = require('lodash');
+let Functions = require('../../utils/Functions.js');
 
-var SignUpForm =
+let SignUpForm =
   React.createClass({
     _handleInputChange: function(ev) {
       // Get a deep clone of the component's state before the input change
-      var nextState = _.cloneDeep(this.state);
+      let nextState = _.cloneDeep(this.state);
 
       //Update the state of the component
       nextState[ev.target.name] = ev.target.value;
